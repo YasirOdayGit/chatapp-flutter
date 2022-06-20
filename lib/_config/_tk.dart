@@ -1,1 +1,2 @@
-double radius = 40;
+double radius = 22.5;
+double inputRadius = 10;
